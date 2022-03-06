@@ -1,6 +1,6 @@
 {
   "name": "Netflix Skipper",
-  "description": "Automatically skip Netflix intros, recaps, and next episode prompts.",
+  "description": "Automatically skip Netflix intros and recaps.",
   "author": "Ran Ribenzaft",
   "version": "1.0",
   "manifest_version": 3,
